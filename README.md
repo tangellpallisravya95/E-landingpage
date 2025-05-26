@@ -26,11 +26,11 @@ This is a simple and attractive landing page project for a fictional burger rest
 ## 📸 Preview
 
 ### 🏠 Home Section
-![Home section](images/pic1Homepage.png)
+![Home section](LandingPage/images/pic1Homepage.png)
 
 ### 🍔 Burger Cards & Menu
-![Burger Section](images/pic2burgerspage.png)
-![Menu Section](images/pic3menupage.png)
+![Burger Section](LandingPage/images/pic2burgerspage.png  )
+![Menu Section](LandingPage/images/pic3menupage.png)
 
 Built with ❤️ for learning frontend development.
 
