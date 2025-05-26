@@ -1,7 +1,7 @@
 # E-landingpage
 # 🍔 Tasty Burgers - Landing Page
 
-This is a simple and attractive landing page project for a fictional burger restaurant named **Tasty Burgers**. The goal was to create a visually appealing website using only HTML and CSS.
+This is a simple and attractive landing page project for a fictional burger restaurant named **Tasty Burgers**. The goal is to create a visually appealing website using only HTML and CSS.
 
 ## 🔧 Technologies Used
 - HTML5
@@ -23,7 +23,6 @@ This is a simple and attractive landing page project for a fictional burger rest
 1. Clone the repo or download the files.
 2. Open `index.html` in your browser.
 
-## 📷 Screenshot
 ## 📸 Preview
 
 ### 🏠 Home Section
@@ -31,9 +30,7 @@ This is a simple and attractive landing page project for a fictional burger rest
 
 ### 🍔 Burger Cards & Menu
 ![Burger Section](images/pic2burgerspage.png)
-![Burger Section](images/pic3menupage.png)
-
-
+![Menu Section](images/pic3menupage.png)
 
 Built with ❤️ for learning frontend development.
 
